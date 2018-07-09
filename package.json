@@ -1,0 +1,25 @@
+{
+  "name": "string-remove-rn",
+  "version": "1.0.7",
+  "description": "remove string \\r\\n",
+  "main": "index.js",
+  "scripts": {
+    "test": "test run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dearzoe/string-remove-rn"
+  },
+  "keywords": [
+    "string",
+    "remove",
+    "rn",
+    "\\r",
+    "\\n",
+    "\\r\\n",
+    "removern",
+    "stringrn"
+  ],
+  "author": "dearzoe",
+  "license": "ISC"
+}
