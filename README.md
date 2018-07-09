@@ -7,9 +7,6 @@ remove the \r\n or \r or \n.
 <a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/v/string-remove-rn.svg?style=flat-square"></a>
 <a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/dm/string-remove-rn.svg?style=flat-square"></a>
 
--
-<img src="https://img.shields.io/npm/v/string-remove-rn.svg?style=flat-square">
-<img src="https://img.shields.io/npm/dm/string-remove-rn.svg?style=flat-square">
 
 ### install
 
