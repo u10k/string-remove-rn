@@ -4,8 +4,7 @@
 去除\r\n 或者 \r 或者 \n。
 remove the \r\n or \r or \n.
 
-<a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/v/string-remove-rn.svg?style=flat-square"></a>
-<a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/dm/string-remove-rn.svg?style=flat-square"></a>
+<a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/v/string-remove-rn.svg" style="width: auto; height: auto"></a><a href="https://www.npmjs.com/package/string-remove-rn"><img src="https://img.shields.io/npm/dm/string-remove-rn.svg" style="width: auto; height: auto"></a>
 
 
 ### install
